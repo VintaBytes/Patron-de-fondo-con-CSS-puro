@@ -7,7 +7,7 @@ El proyecto consiste en una página HTML sencilla que aplica un fondo estilizado
 <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></span>
 
 ### Captura de pantalla
-<img src="https://github.com/VintaBytes/Campo-password-interactivo-en-formularios-HTML/blob/main/captura.png?raw=true">
+<img src="https://github.com/VintaBytes/Patron-de-fondo-con-CSS-puro/blob/main/captura.png?raw=true">
 
 ---
 
