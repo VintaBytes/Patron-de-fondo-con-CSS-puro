@@ -1,0 +1,22 @@
+html {
+    /* Fondo con patrones radiales */
+    background:
+        /* Primer patrón: círculos negros con transparencia en el borde */
+        radial-gradient(black 35%, transparent 16%) 0 0,
+
+        /* Segundo patrón: círculos negros desplazados 8px */
+        radial-gradient(black 35%, transparent 16%) 8px 8px,
+
+        /* Tercer patrón: círculos con transparencia y un ligero color blanco */
+        radial-gradient(rgba(255,255,255,.1) 35%, transparent 20%) 0 1px,
+        
+        /* Cuarto patrón: círculos similares al tercero, pero desplazados 8px en ambas direcciones */
+        radial-gradient(rgba(255,255,255,.1) 35%, transparent 20%) 8px 9px;
+
+    /* Color de fondo principal */
+    background-color:#282828;
+
+    /* Tamaño del patrón de fondo */
+    background-size:16px 16px;
+}
+
