@@ -1,6 +1,7 @@
 # Patron de fondo con CSS puro
 
 El proyecto consiste en una página HTML sencilla que aplica un fondo estilizado utilizando propiedades avanzadas de CSS. El fondo está compuesto por una serie de patrones radiales (círculos) que se repiten, creando un efecto visual similar a una textura o patrón.
+Es muy fácil modificar este ejemplo para conseguir otras texturas y/o colores.
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></span>
